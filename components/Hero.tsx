@@ -107,20 +107,20 @@ const Hero = () => {
   </svg>
   <p className="self-stretch flex-grow-0 flex-shrink-0 w-[360px] text-base text-left text-[#737b8b]">
     <span className="self-stretch flex-grow-0 flex-shrink-0 w-[360px] text-base text-left text-[#737b8b]">
-      "I am an experienced and creative professional in{" "}
+      I am an experienced and creative professional in
     </span>
     <span className="self-stretch flex-grow-0 flex-shrink-0 w-[360px] text-base font-semibold text-left text-[#737b8b]">
       frontend
     </span>
     <span className="self-stretch flex-grow-0 flex-shrink-0 w-[360px] text-base text-left text-[#737b8b]">
-      {" "}
-      development. Prioritizing user{" "}
+      
+      development. Prioritizing user
     </span>
     <span className="self-stretch flex-grow-0 flex-shrink-0 w-[360px] text-base font-semibold text-left text-[#737b8b]">
       experience
     </span>
     <span className="self-stretch flex-grow-0 flex-shrink-0 w-[360px] text-base text-left text-[#737b8b]">
-      , I create impressive and user-friendly interfaces using modern technologies."
+      , I create impressive and user-friendly interfaces using modern technologies
     </span>
   </p>
   <div className="flex justify-start items-center flex-grow-0 flex-shrink-0 gap-2">
