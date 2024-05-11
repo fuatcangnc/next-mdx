@@ -2,8 +2,8 @@ import React from 'react'
 interface ResProps {
     company: string;
     title: string;
-    start: string | { label: string; dateTime: string };
-    end: string | { label: string; dateTime: string };
+    start: string 
+    end: string
   }
 
 const Resume = ({res}:{res:ResProps}) => {
